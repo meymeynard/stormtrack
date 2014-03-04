@@ -1,0 +1,16 @@
+{
+	"name": "pagasastormtrack",
+	"description": "Form for storm track coordinates",
+	"version": "0.0.2",
+	"private": true,
+	"author": "Meynard Soriano",
+	"dependencies": {
+		"express": "3.x",
+		"stylus": "*",
+		"underscore": "*",
+		"nib": "*",
+		"mongodb": "*",
+		"ejs": "*"
+		
+	}
+}
